@@ -1,2 +1,3 @@
 # Proyecto_grupo02
 Practica con repositorios local-remoto
+Escribir cualquier sugerencia de código, de IA, de cómo hacer presentaciones o de palabras de la RAE...
